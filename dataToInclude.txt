@@ -1,6 +1,6 @@
-logo
-name
-Stammnummer
-treffen uhrzeit
+x logo
+x name
+x Stammnummer
+x treffen uhrzeit
 homepage
 christoph mobil
